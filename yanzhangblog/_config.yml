@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:b-1aZe/b1-aZe.github.io.git
-  branch: gh-pages
+  branch: master
